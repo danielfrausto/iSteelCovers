@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="iSteelCovers.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CoversHomeDefault" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">covers</Value>
+    </Setting>
+    <Setting Name="CoversHomeUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ResultsHomeDefault" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">results</Value>
+    </Setting>
+    <Setting Name="ResultsHomeUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
